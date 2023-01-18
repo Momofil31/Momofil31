@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-Currently I'm studying Artificial Intelligence @ University of Trento :it: and since this year I'm tutor for the course [Algorithms and Data Structures][linkASD] by Prof. Montresor.
+Currently I'm studying Artificial Intelligence @ University of Trento :it: and I'm tutor for the course [Algorithms and Data Structures][linkASD] by Prof. Montresor.
 
 I completed my Bachelor's in Computer Science in July 2021 :mortar_board:
 <br/>
